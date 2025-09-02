@@ -1,4 +1,4 @@
-#gamelet
+# gamelet
 
 A starter program writing .Javascript games.
 
@@ -12,3 +12,7 @@ A starter program writing .Javascript games.
 ```
 
 2. THe script will detect the left or right arrow keys when pressed and will move the ball element accordinly // goal
+
+# Javascript All-in-one For Dummies
+
+Learning Javascript,React,Vue,Svelte, and Node from Javascript all-in-one For dummies by Chris Minnick
