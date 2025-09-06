@@ -16,3 +16,5 @@ A starter program writing .Javascript games.
 # Javascript All-in-one For Dummies
 
 Learning Javascript,React,Vue,Svelte, and Node from Javascript all-in-one For dummies by Chris Minnick
+
+// need to learn consts variable GOAL!!
