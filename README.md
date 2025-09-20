@@ -18,7 +18,7 @@ A starter program writing .Javascript games.
 Learning Javascript,React,Vue,Svelte, and Node from Javascript all-in-one For dummies by Chris Minnick
 
 // need to learn consts variable GOAL!!
-
+// if you use const you cant change the variable
 // object data type contain data and functionality
 // const cant be changed
 
