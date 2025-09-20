@@ -21,3 +21,5 @@ Learning Javascript,React,Vue,Svelte, and Node from Javascript all-in-one For du
 
 // object data type contain data and functionality
 // const cant be changed
+
+// switch statement decides which statement to run based on the rseult of a single expression.
